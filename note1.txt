@@ -1,0 +1,3 @@
+ng-app指令标记了AngularJs的脚本作用域。
+浏览器将整个html页面载入完毕后将会执行angular.js,然后扫描含有ng-app指令的html标签。
+{{}}用于angularjs的绑定功能
